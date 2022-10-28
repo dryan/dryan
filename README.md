@@ -2,4 +2,4 @@
 
 [![DRyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dryan&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<a rel="me" href="https://social.dryan.com/@d">@d@dryan.com on Mastodon</a>
+<a rel="me" href="https://social.dryan.com/@d">On Mastodon</a>
