@@ -3,3 +3,4 @@
 [![DRyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dryan&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <a rel="me nofollow" href="https://social.dryan.com/@d">On Mastodon</a>
+<link rel="me" href="https://social.dryan.com/@d" />
